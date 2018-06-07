@@ -22,7 +22,7 @@ import lejos.nxt.UltrasonicSensor;
  *
  */
 
-public class PotatoManeger extends PotatoManegerTeste {
+public class PotatoManeger {
 	
 	
 	public static void main(String[] args) {
