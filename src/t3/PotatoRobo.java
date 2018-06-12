@@ -11,8 +11,8 @@ public class PotatoRobo {
 	//posicaoGlobal
 	private static EnumDirecao direcaoCabeca = EnumDirecao.FRENTE;
 	private static PotatoRobo instance = null;
-	public static PotatoManegerTeste manager = new  PotatoManegerTeste();//new PotatoManager();	
-	//public static PotatoManeger manager = new PotatoManeger();	
+	//public static PotatoManegerTeste manager = new  PotatoManegerTeste();//new PotatoManager();	
+	public static PotatoManeger manager = new PotatoManeger();	
 	public static Nodo nodoAtual;
 
 	//private static NodoAtual;
